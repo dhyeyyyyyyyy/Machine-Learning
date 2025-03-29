@@ -1,4 +1,3 @@
-# Machine-Learning
 # Repository Description
 
 ## Machine Learning Practicals & Career Prediction Model
